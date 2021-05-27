@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Final Task</string>
+    <string name="edit_name_practice">Edit name</string>>
+    <string name="edit_description_practice">Edit description</string>>
+    <string name="good_practice">Good</string>
+    <string name="bad_practice">Bad</string>
+    <string name="apply_button">apply</string>
+    <string name="placeholder_cr">Count %1$d Repeat %2$d times in a day.</string>
+    <string name="type_text">Type: %1$s</string>>
+    <string name="level_text">Level: %1$s</string>
+    <string name="label_ok">Ok</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="action_share">Share</string>
+    <string name="action_upload">Upload</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_print">Print</string>
+    <string name="choose_filter">Choose_filter</string>
+    <string name="find_by_name">Find practice by name:</string>
+    <string name="done_habit">Make Done</string>
+</resources>
